@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **MERN, Tensorflow, Pytorch**
 
-- 💬 Interested to collaborate on projects about **Python, Data science and Machine learning**
+- 💬 Open to collaborating on projects related to **Python, Data science and Machine learning**
 
 - 📫 How to reach me **kartik.kumar.chintakrindi@gmail.com**
 
