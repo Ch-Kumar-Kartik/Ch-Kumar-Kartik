@@ -41,8 +41,8 @@
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NeoVim-Dark.svg" height="40" alt="neovim"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VIM-Dark.svg" height="40" alt="vim"  />
+  <!-- <img src=""><img width="12" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VIM-Dark.svg" height="40" alt="vim"  /> -->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
   <img width="12" />
@@ -55,8 +55,8 @@
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PyCharm-Dark.svg" height="40" alt="pycharm"  />
+  <!-- <img src=""> <img width="12" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PyCharm-Dark.svg" height="40" alt="pycharm"  />-->
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo"  />
   <img width="12" />
@@ -94,8 +94,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=matlab" height="40" alt="matlab logo"  />
   <img width="12" />
-</div>
-<div align="left">
+
   <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
 </div>
 
