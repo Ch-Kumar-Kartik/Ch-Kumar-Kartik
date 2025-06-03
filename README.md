@@ -8,7 +8,17 @@
 </p>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDlpc21rN3BvdDZ2aHByMndweThqZzl6MGQwd3BnYTZ4ZnVwY3FhcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3dhmyq6EKw2x7eFt4X/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ch-Kumar-Kartik&label=Profile%20views&color=0e75b6&style=flat" alt="Ch-Kumar-Kartik" /> </p>
+<div width = "20px">
+  
+<h4> Visitor Count : </h4> 
+
+![Visitor Count](https://count.getloli.com/get/@Ch-Kumar-Kartik?theme=booru-lewd)
+<!--rule-34-->
+</div>
+
+<!--<div style="width: 20px; overflow: hidden;">
+  <img src="https://count.getloli.com/get/@Ch-Kumar-Kartik?theme=booru-lewd" alt="Visitor Count" style="width: 25%; height: auto;">
+</div>-->
 
 - 🔭 I’m currently working on **ML Based projects with MERN**
 
