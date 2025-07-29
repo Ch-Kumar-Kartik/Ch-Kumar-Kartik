@@ -20,11 +20,11 @@
   <img src="https://count.getloli.com/get/@Ch-Kumar-Kartik?theme=booru-lewd" alt="Visitor Count" style="width: 25%; height: auto;">
 </div>-->
 
-- 🔭 I’m currently working on **ML Based projects with MERN**
+- 🔭 I’m currently working on **DL based Computer Vision Projects**
 
-- 🌱 I’m currently learning **MERN, Tensorflow, Pytorch**
+- 🌱 I’m currently learning **PyTorch, TypeScript/Backend**
 
-- 💬 Open to collaborating on projects related to **Python, Data science and Machine learning**
+- 💬 Open to collaborating on projects related to **Backend and Deep Learning**
 
 - 📫 How to reach me **kartik.kumar.chintakrindi@gmail.com**
 
