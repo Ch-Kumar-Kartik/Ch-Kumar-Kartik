@@ -125,8 +125,11 @@
 </div>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ch-Kumar-Kartik&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&card_width=80&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ch-Kumar-Kartik&locale=en&hide_title=false&layout=compact&card_width=160&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+  
+  
+  <a href="https://github.com/Ch-Kumar-Kartik/github-readme-stats?tab=readme-ov-file#github-stats-card"><img height="190" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ch-Kumar-Kartik&show_icons=true&custom_title=GitHub+Statistics&title_color=cba6f7&theme=catppuccin_mocha&border_color=45475a"/></a>
+<a href="https://github.com/Ch-Kumar-Kartik/github-readme-stats?tab=readme-ov-file#top-languages-card"><img width="345" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ch-Kumar-Kartik&layout=compact&title_color=cba6f7&theme=catppuccin_mocha&border_color=45475a"/></a>
+  
   <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZhZmNrb2Ixbm12N2M0a2Z1bXB0Nmh0N3Z0dTgxZzhpajVmbTk4cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/a6pzK009rlCak/giphy.gif"  />
 </div>
 
