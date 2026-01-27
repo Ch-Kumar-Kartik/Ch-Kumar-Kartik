@@ -52,7 +52,7 @@ No activity tracked
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kumar-kartik-chintakrindi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/C_Kumar_Kartik) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kartik.kumar.chintakrindi@gmail.com) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?logo=vercel&logoColor=white)](https://kartik-tsuki.vercel.app/)
 <p>
-  <img align="right" src="https://x.com/i/status/1865565081448169940" width="150" height="150"/>
+  <img align="right" src="/gifs/snaplytics_converted_gif.gif" width="150" height="150"/>
 </p>
 
 
