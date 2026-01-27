@@ -1,16 +1,19 @@
 
 <!-- <h5 align="center">sup</h5> -->
 
-<div width = "20px">
+<h5>Visitor Count :</h5>
+<!-- <div width = "20px">
 <h5> Visitor Count : </h5> 
 <img src="https://count.getloli.com/get/@Ch-Kumar-Kartik?theme=booru-lewd" alt="Visitor Count" width="250" height="100" />
 </div><p align="right">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGdhcTdlMnE4OHFkeGN2YTVudmxtOGczbTloZ3J4Yjh0NW5tYTZiYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D9aSh4ymC0l7fCVLtg/giphy.gif" width="100" height="100"/>
+</p> -->
+<p>
+  <img align="left" src="https://count.getloli.com/get/@Ch-Kumar-Kartik?theme=booru-lewd" alt="Visitor Count" width="250" height="100" />
+  <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGdhcTdlMnE4OHFkeGN2YTVudmxtOGczbTloZ3J4Yjh0NW5tYTZiYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D9aSh4ymC0l7fCVLtg/giphy.gif" width="150" height="150"/>
 </p>
-<!--<div style="width: 20px; overflow: hidden;">
-  <img src="https://count.getloli.com/get/@Ch-Kumar-Kartik?theme=booru-lewd" alt="Visitor Count" style="width: 25%; height: auto;">
-</div>-->
-
+<br clear="both"/>
+<p></p>
 <!--START_SECTION:waka-->
 
 ```txt
@@ -47,6 +50,12 @@ No activity tracked
 
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kumar-kartik-chintakrindi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/C_Kumar_Kartik) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kartik.kumar.chintakrindi@gmail.com) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?logo=vercel&logoColor=white)](https://kartik-tsuki.vercel.app/)
+<p>
+  <img align="right" src="https://x.com/i/status/1865565081448169940" width="150" height="150"/>
+</p>
+
+
 
 
 <!-- <img src="https://raw.githubusercontent.com/Ch-Kumar-Kartik/Ch-Kumar-Kartik/output/snake.svg" alt="Snake animation" />
