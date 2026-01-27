@@ -1,13 +1,3 @@
-<!--horizontal divider(gradiant)-->
-<!-- <img src=""> -->
-
-
-<!-- <h1 align="center">Hi there, I'm Chintakrindi Kumar Kartik </h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Aspiring+AI+and+ML+Engineer,;Exploring+Data+Science+and+MERN,;Computer+Science+(Data+Science)+@MUJ,;Interested+in+Open+Source+and+Research,;Love+learning+new+tech"></a>
-</p>
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDlpc21rN3BvdDZ2aHByMndweThqZzl6MGQwd3BnYTZ4ZnVwY3FhcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3dhmyq6EKw2x7eFt4X/giphy.gif"> -->
-
 <div width = "20px">
 <h5> Visitor Count : </h5> 
 <img src="https://count.getloli.com/get/@Ch-Kumar-Kartik?theme=booru-lewd" alt="Visitor Count" width="250" />
@@ -18,47 +8,6 @@
 </div>-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%2036%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.74%20million%20lines%20of%20code-blue?style=flat)
-
-
-```text
-Morning                226 commits         █████░░░░░░░░░░░░░░░░░░░░   21.16 %
-Daytime                485 commits         ███████████░░░░░░░░░░░░░░   45.41 %
-Evening                302 commits         ███████░░░░░░░░░░░░░░░░░░   28.28 %
-Night                  55 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
-```
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-Programming Languages:
-Python                   9 hrs 27 mins       ███████████████████░░░░░░
-TypeScript               1 hr 48 mins        ████░░░░░░░░░░░░░░░░░░░░░
-Other                    35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░
-
-Editors:
-VS Code                  6 hrs 21 mins       █████████████░░░░░░░░░░░░
-Antigravity              6 hrs 7 mins        ████████████░░░░░░░░░░░░░
-
-Projects:
-zonko                    7 hrs 44 mins
-bryn                     4 hrs 37 mins
-
-Operating System:
-Arch Linux                  12 hrs 28 mins      █████████████████████████
-```
-
-**I Mostly Code in :** 
-
-```text
-Python                   5 repos             █████████░░░░░░░░░░░░░░░░   35.71 % 
-TypeScript               3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-Jupyter Notebook         3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-JavaScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Rust                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-```
 <!--END_SECTION:waka-->
 
 <table>
