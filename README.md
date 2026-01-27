@@ -1,8 +1,12 @@
+
+<!-- <h5 align="center">sup</h5> -->
+
 <div width = "20px">
 <h5> Visitor Count : </h5> 
-<img src="https://count.getloli.com/get/@Ch-Kumar-Kartik?theme=booru-lewd" alt="Visitor Count" width="250" />
-</div>
-
+<img src="https://count.getloli.com/get/@Ch-Kumar-Kartik?theme=booru-lewd" alt="Visitor Count" width="250" height="100" />
+</div><p align="right">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGdhcTdlMnE4OHFkeGN2YTVudmxtOGczbTloZ3J4Yjh0NW5tYTZiYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D9aSh4ymC0l7fCVLtg/giphy.gif" width="100" height="100"/>
+</p>
 <!--<div style="width: 20px; overflow: hidden;">
   <img src="https://count.getloli.com/get/@Ch-Kumar-Kartik?theme=booru-lewd" alt="Visitor Count" style="width: 25%; height: auto;">
 </div>-->
