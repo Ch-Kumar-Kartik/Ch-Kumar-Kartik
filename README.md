@@ -15,6 +15,13 @@
 <br clear="both"/>
 <p></p>
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 1 min
+
+Markdown   1 min           █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 <table>
