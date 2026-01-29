@@ -15,8 +15,6 @@
 <br clear="both"/>
 <p></p>
 <!--START_SECTION:waka-->
-
-```txt
 <!--END_SECTION:waka-->
 
 <table>
