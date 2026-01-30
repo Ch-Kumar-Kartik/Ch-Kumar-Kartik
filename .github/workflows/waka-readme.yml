@@ -20,3 +20,14 @@ jobs:
           LANG_COUNT: 10
           BLOCKS: ░▒▓█
           COMMIT_MESSAGE: "Updated WakaTime stats"
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_COMMIT: "True"
+          SHOW_LANGUAGE: "True"
+          SHOW_OS: "True"
+          SHOW_PROJECTS: "True"
+          SHOW_TIMEZONE: "True"
+          SHOW_EDITORS: "True"
+          SHOW_SHORT_INFO: "False"
+          SHOW_LOC_CHART: "False"
+          LOCALE: "en"
