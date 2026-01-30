@@ -14,7 +14,7 @@
 </p>
 <br clear="both"/>
 <p></p>
-[![wakatime](https://wakatime.com/badge/user/582bd39f-1dda-400f-94a9-ba1cf71afb5d.svg)](https://wakatime.com/@582bd39f-1dda-400f-94a9-ba1cf71afb5d)
+<a href="https://wakatime.com/@582bd39f-1dda-400f-94a9-ba1cf71afb5d"><img src="https://wakatime.com/badge/user/582bd39f-1dda-400f-94a9-ba1cf71afb5d.svg" alt="Total time coded since Jan 27 2026" /></a>
 <!--START_SECTION:waka-->
 
 ```txt
