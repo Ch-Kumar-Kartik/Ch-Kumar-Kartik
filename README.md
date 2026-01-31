@@ -25,6 +25,8 @@ Git Config   1 min           ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+![Metrics](./metrics.svg)
+
 
 <table>
   <tr>
