@@ -2,7 +2,7 @@ name: GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"   # once daily
   workflow_dispatch:
 
 jobs:
@@ -12,19 +12,11 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          user: Ch-Kumar-Kartik
-
+          user: w2sg-arnav
           template: classic
           base: activity, community, repositories
+          config_timezone: Asia/Kolkata
 
-          # 🔥 WakaTime
-          plugin_wakatime: yes
-          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
-          plugin_wakatime_sections: time, languages, editors, projects, os
-          plugin_wakatime_days: 7
-          plugin_wakatime_limit: 5
-          plugin_wakatime_timezone: Asia/Kolkata
-
-          # Output
+          # 🔽 THIS IS THE MISSING PART
           output_action: commit
-          output_path: metrics.svg
+          output_path: ./metrics.svg
