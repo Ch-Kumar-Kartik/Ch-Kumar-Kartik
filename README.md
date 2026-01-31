@@ -14,6 +14,7 @@
 <br clear="both"/>
 <p></p>
 <a href="https://wakatime.com/@582bd39f-1dda-400f-94a9-ba1cf71afb5d"><img src="https://wakatime.com/badge/user/582bd39f-1dda-400f-94a9-ba1cf71afb5d.svg" alt="Total time coded since Jan 27 2026" /></a>
+<p></p>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2048%20mins-blue?style=flat)
@@ -58,15 +59,16 @@ Linux                    6 hrs 24 mins       ███████████�
 
 <table align = "center">
   <tr>
-    <td>
-      <a href="https://github.com/Ch-Kumar-Kartik/github-readme-stats?tab=readme-ov-file#github-stats-card">
-        <img
+    <!-- <td>
+      <!-- <a href="https://github.com/Ch-Kumar-Kartik/github-readme-stats?tab=readme-ov-file#github-stats-card"> -->
+        <!-- <a href="https://github-readme-stats.vercel.app/api?username=Ch-Kumar-Kartik&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false"> -->
+        <!-- <img
           height="190"
           alt="GitHub Stats"
-          src="https://github-readme-stats.vercel.app/api?username=Ch-Kumar-Kartik&show_icons=true&custom_title=GitHub+Statistics&title_color=cba6f7&theme=catppuccin_mocha&border_color=45475a"
-        />
-      </a>
-    </td>
+          src="https://github-readme-stats.vercel.app/api?username=Ch-Kumar-Kartik&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false"
+        /> -->
+      <!-- </a> -->
+    <!-- </td> -->
     <td>
       <img
         height="190"
@@ -89,7 +91,18 @@ Linux                    6 hrs 24 mins       ███████████�
 </p>
 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ch-Kumar-Kartik&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Ch-Kumar-Kartik&theme=gruvbox&hide_border=true)<br/>
 
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Ch-Kumar-Kartik&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Ch-Kumar-Kartik&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- <img src="https://raw.githubusercontent.com/Ch-Kumar-Kartik/Ch-Kumar-Kartik/output/snake.svg" alt="Snake animation" />
 
