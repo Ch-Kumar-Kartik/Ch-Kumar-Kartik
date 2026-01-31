@@ -17,17 +17,17 @@ jobs:
           SHOW_TIME: true
           SHOW_TOTAL: false
           SHOW_MASKED_TIME: false
-          LANG_COUNT: 10
+          LANG_COUNT: 5
           BLOCKS: ░▒▓█
           COMMIT_MESSAGE: "Updated WakaTime stats"
-          SHOW_LINES_OF_CODE: "True"
+          SHOW_LINES_OF_CODE: true
           SHOW_PROFILE_VIEWS: "False"
           SHOW_COMMIT: "True"
           SHOW_LANGUAGE: "True"
-          SHOW_OS: "True"
-          SHOW_PROJECTS: "True"
-          SHOW_TIMEZONE: "True"
-          SHOW_EDITORS: "True"
+          SHOW_OS: true
+          SHOW_PROJECTS: true
+          SHOW_TIMEZONE: true
+          SHOW_EDITORS: true
           SHOW_SHORT_INFO: "False"
           SHOW_LOC_CHART: "False"
           LOCALE: "en"
