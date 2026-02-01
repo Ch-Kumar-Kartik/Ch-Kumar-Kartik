@@ -17,6 +17,8 @@
 <p></p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%203%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.35%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night Owl** 
@@ -33,23 +35,23 @@
 
 ```text
 Programming Languages: 
-TypeScript               7 hrs 51 mins       ████████████████████████░   95.71 % 
-JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
-Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-TSConfig                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+TypeScript               11 hrs 42 mins      ████████████████████████░   97.08 % 
+JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+TSConfig                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 Editors: 
-Antigravity              8 hrs 3 mins        █████████████████████████   98.27 % 
-Cursor                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+Antigravity              11 hrs 55 mins      █████████████████████████   98.82 % 
+Cursor                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 
 Projects: 
-JavaScript               8 hrs 3 mins        █████████████████████████   98.27 % 
-Cohort_3.0_100xDevs      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-Ch-Kumar-Kartik          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+JavaScript               11 hrs 55 mins      █████████████████████████   98.82 % 
+Cohort_3.0_100xDevs      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Ch-Kumar-Kartik          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 Operating System: 
-Linux                    8 hrs 12 mins       █████████████████████████   100.00 % 
+Linux                    12 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 
