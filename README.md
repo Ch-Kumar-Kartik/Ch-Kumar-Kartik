@@ -35,23 +35,23 @@
 
 ```text
 Programming Languages: 
-TypeScript               11 hrs 42 mins      ████████████████████████░   97.08 % 
-JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
-TSConfig                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+TypeScript               11 hrs 56 mins      ████████████████████████░   96.87 % 
+Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+TSConfig                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 Editors: 
-Antigravity              11 hrs 55 mins      █████████████████████████   98.82 % 
-Cursor                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+Antigravity              12 hrs 9 mins       █████████████████████████   98.57 % 
+Cursor                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 
 Projects: 
-JavaScript               11 hrs 55 mins      █████████████████████████   98.82 % 
-Cohort_3.0_100xDevs      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-Ch-Kumar-Kartik          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+JavaScript-TypeScript    12 hrs 9 mins       █████████████████████████   98.57 % 
+Cohort_3.0_100xDevs      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+Ch-Kumar-Kartik          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 Operating System: 
-Linux                    12 hrs 3 mins       █████████████████████████   100.00 % 
+Linux                    12 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 
