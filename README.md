@@ -17,7 +17,7 @@
 <p></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%207%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.35%20million%20lines%20of%20code-blue?style=flat)
 
@@ -35,23 +35,24 @@
 
 ```text
 Programming Languages: 
-TypeScript               13 hrs 5 mins       ███████████████████████░░   92.98 % 
-Python                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
-JavaScript               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+TypeScript               14 hrs 53 mins      ███████████████████████░░   90.66 % 
+Python                   37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+HTML                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+JavaScript               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 Editors: 
-Antigravity              13 hrs 49 mins      █████████████████████████   98.25 % 
-Cursor                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+Antigravity              16 hrs 11 mins      █████████████████████████   98.50 % 
+Cursor                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 
 Projects: 
-JavaScript-TypeScript    13 hrs 22 mins      ████████████████████████░   95.00 % 
-qwen3-mhc                27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-Cohort_3.0_100xDevs      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+JavaScript-TypeScript    15 hrs 6 mins       ███████████████████████░░   91.98 % 
+qwen3-mhc                38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+JavaScript               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+Cohort_3.0_100xDevs      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 
 Operating System: 
-Linux                    14 hrs 4 mins       █████████████████████████   100.00 % 
+Linux                    16 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 
