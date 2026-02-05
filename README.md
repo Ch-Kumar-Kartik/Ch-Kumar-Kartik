@@ -25,7 +25,7 @@
 <p></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2029%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.35%20million%20lines%20of%20code-blue?style=flat)
 
@@ -43,24 +43,24 @@
 
 ```text
 Programming Languages: 
-TypeScript               14 hrs 53 mins      ███████████████████████░░   90.66 % 
-Python                   37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-HTML                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
-JavaScript               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
-Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+TypeScript               16 hrs 4 mins       ██████████████████████░░░   87.21 % 
+JavaScript               1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+Python                   37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+HTML                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 
 Editors: 
-Antigravity              16 hrs 11 mins      █████████████████████████   98.50 % 
-Cursor                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Antigravity              18 hrs 10 mins      █████████████████████████   98.66 % 
+Cursor                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
 
 Projects: 
-JavaScript-TypeScript    15 hrs 6 mins       ███████████████████████░░   91.98 % 
-qwen3-mhc                38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
-JavaScript               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
-Cohort_3.0_100xDevs      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+JavaScript-TypeScript    12 hrs 46 mins      █████████████████░░░░░░░░   69.31 % 
+JavaScript               4 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
+Cohort_3.0_100xDevs      1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+qwen3-mhc                38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
 
 Operating System: 
-Linux                    16 hrs 25 mins      █████████████████████████   100.00 % 
+Linux                    18 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 
