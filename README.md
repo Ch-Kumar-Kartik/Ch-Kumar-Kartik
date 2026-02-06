@@ -43,24 +43,24 @@
 
 ```text
 Programming Languages: 
-TypeScript               16 hrs 4 mins       ██████████████████████░░░   87.21 % 
-JavaScript               1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
-Python                   37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
-HTML                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+TypeScript               12 hrs 8 mins       ███████████████████░░░░░░   77.94 % 
+JavaScript               2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+Python                   37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+HTML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 
 Editors: 
-Antigravity              18 hrs 10 mins      █████████████████████████   98.66 % 
-Cursor                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+Antigravity              15 hrs 26 mins      █████████████████████████   99.13 % 
+Cursor                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 
 Projects: 
-JavaScript-TypeScript    12 hrs 46 mins      █████████████████░░░░░░░░   69.31 % 
-JavaScript               4 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
-Cohort_3.0_100xDevs      1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
-qwen3-mhc                38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+JavaScript-TypeScript    8 hrs 50 mins       ██████████████░░░░░░░░░░░   56.76 % 
+JavaScript               4 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   25.80 % 
+Cohort_3.0_100xDevs      2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+qwen3-mhc                38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
 
 Operating System: 
-Linux                    18 hrs 25 mins      █████████████████████████   100.00 % 
+Linux                    15 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 
