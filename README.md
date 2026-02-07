@@ -43,23 +43,24 @@
 
 ```text
 Programming Languages: 
-TypeScript               8 hrs 17 mins       ██████████████████░░░░░░░   71.54 % 
-JavaScript               2 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
-Python                   37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
-HTML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
-Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+TypeScript               8 hrs 31 mins       █████████████████░░░░░░░░   69.35 % 
+JavaScript               2 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
+Python                   37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+HTML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+Git Config               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 
 Editors: 
-Antigravity              11 hrs 26 mins      █████████████████████████   98.83 % 
-Cursor                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Antigravity              12 hrs 9 mins       █████████████████████████   98.99 % 
+Cursor                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 
 Projects: 
-JavaScript-TypeScript    8 hrs 48 mins       ███████████████████░░░░░░   76.06 % 
-Cohort_3.0_100xDevs      2 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
-qwen3-mhc                38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+JavaScript-TypeScript    6 hrs 59 mins       ██████████████░░░░░░░░░░░   56.92 % 
+Cohort_3.0_100xDevs      2 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
+JavaScript               2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+qwen3-mhc                38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
 
 Operating System: 
-Linux                    11 hrs 34 mins      █████████████████████████   100.00 % 
+Linux                    12 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 
