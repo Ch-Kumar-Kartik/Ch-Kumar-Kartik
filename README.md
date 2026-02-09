@@ -25,17 +25,17 @@
 <p></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2035%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.35%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.84%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night Owl** 
 
 ```text
- Morning                 36 commits          █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
- Daytime                 39 commits          █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
- Evening                 72 commits          ██████████░░░░░░░░░░░░░░░   38.71 % 
- Night                   39 commits          █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
+ Morning                 36 commits          █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+ Daytime                 39 commits          █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
+ Evening                 73 commits          ██████████░░░░░░░░░░░░░░░   38.02 % 
+ Night                   44 commits          ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
 ```
 
 
@@ -43,23 +43,24 @@
 
 ```text
 Programming Languages: 
-TypeScript               2 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   41.48 % 
-JavaScript               2 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   39.69 % 
-Python                   37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
-HTML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
-Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+JavaScript               2 hrs 24 mins       █████████████░░░░░░░░░░░░   52.72 % 
+TypeScript               1 hr 21 mins        ███████░░░░░░░░░░░░░░░░░░   29.94 % 
+Python                   18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+HTML                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 
 Editors: 
-Antigravity              5 hrs 55 mins       ████████████████████████░   97.96 % 
-Cursor                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+Antigravity              4 hrs 25 mins       ████████████████████████░   97.28 % 
+Cursor                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 
 Projects: 
-JavaScript-TypeScript    2 hrs 55 mins       ████████████░░░░░░░░░░░░░   48.42 % 
-Cohort_3.0_100xDevs      2 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   41.11 % 
-qwen3-mhc                38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+Cohort_3.0_100xDevs      2 hrs 29 mins       ██████████████░░░░░░░░░░░   54.60 % 
+JavaScript-TypeScript    1 hr 43 mins        █████████░░░░░░░░░░░░░░░░   37.74 % 
+qwen3-mhc                18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+duo_mate                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 
 Operating System: 
-Linux                    6 hrs 3 mins        █████████████████████████   100.00 % 
+Linux                    4 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 
