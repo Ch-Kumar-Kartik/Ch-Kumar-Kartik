@@ -25,17 +25,17 @@
 <p></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2015%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.84%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.36%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night Owl** 
 
 ```text
- Morning                 36 commits          █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
- Daytime                 39 commits          █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
- Evening                 73 commits          ██████████░░░░░░░░░░░░░░░   38.02 % 
- Night                   44 commits          ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
+ Morning                 36 commits          █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
+ Daytime                 39 commits          █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
+ Evening                 71 commits          █████████░░░░░░░░░░░░░░░░   37.97 % 
+ Night                   41 commits          █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
 ```
 
 
