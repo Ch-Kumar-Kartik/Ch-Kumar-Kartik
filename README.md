@@ -25,16 +25,16 @@
 <p></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2044%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-637.69%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-637.85%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night Owl** 
 
 ```text
  Morning                 32 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
- Daytime                 39 commits          █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
- Evening                 75 commits          ██████████░░░░░░░░░░░░░░░   40.98 % 
+ Daytime                 40 commits          █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
+ Evening                 74 commits          ██████████░░░░░░░░░░░░░░░   40.44 % 
  Night                   37 commits          █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
 ```
 
@@ -43,23 +43,21 @@
 
 ```text
 Programming Languages: 
-JavaScript               2 hrs 16 mins       ███████████░░░░░░░░░░░░░░   44.24 % 
-TypeScript               1 hr 36 mins        ████████░░░░░░░░░░░░░░░░░   31.40 % 
-JSON                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
-HTML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
-Git Config               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+JavaScript               3 hrs 25 mins       ██████████████████░░░░░░░   72.39 % 
+HTML                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+JSON                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+Git Config               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+TypeScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
 
 Editors: 
-Antigravity              5 hrs 7 mins        █████████████████████████   100.00 % 
+Antigravity              4 hrs 43 mins       █████████████████████████   100.00 % 
 
 Projects: 
-Cohort_3.0_100xDevs      2 hrs 21 mins       ████████████░░░░░░░░░░░░░   46.07 % 
-JavaScript-TypeScript    1 hr 42 mins        ████████░░░░░░░░░░░░░░░░░   33.32 % 
-duo_mate                 52 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
-qwen3-mhc                10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Cohort_3.0_100xDevs      3 hrs 50 mins       ████████████████████░░░░░   81.39 % 
+duo_mate                 52 mins             █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
 
 Operating System: 
-Linux                    5 hrs 7 mins        █████████████████████████   100.00 % 
+Linux                    4 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 
