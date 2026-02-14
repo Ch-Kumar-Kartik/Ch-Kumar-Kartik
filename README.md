@@ -29,6 +29,38 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-640.96%20thousand%20lines%20of%20code-blue?style=flat)
 
+**I'm a Night Owl** 
+
+```text
+ Morning                 32 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
+ Daytime                 40 commits          █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
+ Evening                 76 commits          ██████████░░░░░░░░░░░░░░░   41.08 % 
+ Night                   37 commits          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+```
+
+
+**This Week I Spent My Time On** 
+
+```text
+Programming Languages: 
+TypeScript               3 hrs 34 mins       ██████████████░░░░░░░░░░░   57.54 % 
+JavaScript               1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
+HTML                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+Markdown                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+
+Editors: 
+Antigravity              6 hrs 12 mins       █████████████████████████   100.00 % 
+
+Projects: 
+JavaScript               3 hrs 36 mins       ███████████████░░░░░░░░░░   58.16 % 
+Cohort_3.0_100xDevs      1 hr 31 mins        ██████░░░░░░░░░░░░░░░░░░░   24.55 % 
+duo_mate                 1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
+
+Operating System: 
+Linux                    6 hrs 12 mins       █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:waka-->
 
