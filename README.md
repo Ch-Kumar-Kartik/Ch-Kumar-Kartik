@@ -43,21 +43,18 @@
 
 ```text
 Programming Languages: 
-TypeScript               5 hrs 51 mins       ███████████████████████░░   91.34 % 
-HTML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-PlantUML                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+TypeScript               4 hrs 7 mins        ████████████████████████░   95.75 % 
+PlantUML                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
 
 Editors: 
-Antigravity              6 hrs 24 mins       █████████████████████████   100.00 % 
+Antigravity              4 hrs 18 mins       █████████████████████████   100.00 % 
 
 Projects: 
-JavaScript               6 hrs 8 mins        ████████████████████████░   95.79 % 
-duo_mate                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+JavaScript               4 hrs 7 mins        ████████████████████████░   95.75 % 
+duo_mate                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
 
 Operating System: 
-Linux                    6 hrs 24 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 
