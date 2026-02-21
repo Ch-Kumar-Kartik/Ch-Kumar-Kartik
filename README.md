@@ -29,34 +29,6 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-641.03%20thousand%20lines%20of%20code-blue?style=flat)
 
-**I'm a Night Owl** 
-
-```text
- Morning                 32 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
- Daytime                 40 commits          █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
- Evening                 77 commits          ██████████░░░░░░░░░░░░░░░   41.40 % 
- Night                   37 commits          █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
-```
-
-
-**This Week I Spent My Time On** 
-
-```text
-Programming Languages: 
-TypeScript               4 hrs 7 mins        ████████████████████████░   95.75 % 
-PlantUML                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
-
-Editors: 
-Antigravity              4 hrs 18 mins       █████████████████████████   100.00 % 
-
-Projects: 
-JavaScript               4 hrs 7 mins        ████████████████████████░   95.75 % 
-duo_mate                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
-
-Operating System: 
-Linux                    4 hrs 18 mins       █████████████████████████   100.00 % 
-```
-
 
 <!--END_SECTION:waka-->
 
