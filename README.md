@@ -43,18 +43,16 @@
 
 ```text
 Programming Languages: 
-PlantUML                 10 mins             ████████████████████░░░░░   79.34 % 
-TypeScript               2 mins              █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
+No Activity Tracked This Week
 
 Editors: 
-Antigravity              13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 Projects: 
-duo_mate                 10 mins             ████████████████████░░░░░   79.34 % 
-JavaScript               2 mins              █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
+No Activity Tracked This Week
 
 Operating System: 
-Linux                    13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
