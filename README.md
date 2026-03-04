@@ -25,7 +25,7 @@
 <p></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%204%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-641.03%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -43,16 +43,16 @@
 
 ```text
 Programming Languages: 
-TypeScript               1 hr 55 mins        █████████████████████████   100.00 % 
+TypeScript               8 hrs 3 mins        █████████████████████████   100.00 % 
 
 Editors: 
-Antigravity              1 hr 55 mins        █████████████████████████   100.00 % 
+Antigravity              8 hrs 3 mins        █████████████████████████   100.00 % 
 
 Projects: 
-JavaScript               1 hr 55 mins        █████████████████████████   100.00 % 
+JavaScript               8 hrs 3 mins        █████████████████████████   100.00 % 
 
 Operating System: 
-Linux                    1 hr 55 mins        █████████████████████████   100.00 % 
+Linux                    8 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 
