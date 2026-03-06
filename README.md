@@ -43,16 +43,19 @@
 
 ```text
 Programming Languages: 
-TypeScript               9 hrs 32 mins       █████████████████████████   100.00 % 
+TypeScript               9 hrs 32 mins       █████████████████████████   98.31 % 
+JavaScript               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 Editors: 
-Antigravity              9 hrs 32 mins       █████████████████████████   100.00 % 
+Antigravity              9 hrs 42 mins       █████████████████████████   100.00 % 
 
 Projects: 
-JavaScript               9 hrs 32 mins       █████████████████████████   100.00 % 
+JavaScript               9 hrs 32 mins       █████████████████████████   98.31 % 
+Cohort_3.0_100xDevs      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 
 Operating System: 
-Linux                    9 hrs 32 mins       █████████████████████████   100.00 % 
+Linux                    9 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 
