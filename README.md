@@ -43,19 +43,21 @@
 
 ```text
 Programming Languages: 
-TypeScript               9 hrs 32 mins       █████████████████████████   98.31 % 
-JavaScript               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+TypeScript               9 hrs 32 mins       █████████████████████░░░░   82.16 % 
+JavaScript               2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 Editors: 
-Antigravity              9 hrs 42 mins       █████████████████████████   100.00 % 
+Antigravity              11 hrs 37 mins      █████████████████████████   100.00 % 
 
 Projects: 
-JavaScript               9 hrs 32 mins       █████████████████████████   98.31 % 
-Cohort_3.0_100xDevs      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+JavaScript               9 hrs 32 mins       █████████████████████░░░░   82.16 % 
+Cohort_3.0_100xDevs      2 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
 
 Operating System: 
-Linux                    9 hrs 42 mins       █████████████████████████   100.00 % 
+Linux                    11 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 
