@@ -43,21 +43,23 @@
 
 ```text
 Programming Languages: 
-TypeScript               3 hrs 28 mins       █████████████░░░░░░░░░░░░   51.74 % 
-JavaScript               2 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   39.59 % 
-Bash                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
-Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+TypeScript               3 hrs 42 mins       ██████████████████░░░░░░░   70.10 % 
+JavaScript               46 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+Bash                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
 
 Editors: 
-Antigravity              6 hrs 42 mins       █████████████████████████   100.00 % 
+Antigravity              4 hrs 57 mins       ███████████████████████░░   93.83 % 
+Zed                      19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
 
 Projects: 
-duo_mate                 4 hrs 1 min         ███████████████░░░░░░░░░░   60.01 % 
-Cohort_3.0_100xDevs      2 hrs 41 mins       ██████████░░░░░░░░░░░░░░░   39.99 % 
+duo_mate                 4 hrs 22 mins       █████████████████████░░░░   82.62 % 
+Cohort_3.0_100xDevs      46 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+Unknown Project          8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 
 Operating System: 
-Linux                    6 hrs 42 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 
