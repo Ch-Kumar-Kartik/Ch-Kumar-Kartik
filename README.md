@@ -25,7 +25,7 @@
 <p></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-48%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%202%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-676.92%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -43,21 +43,21 @@
 
 ```text
 Programming Languages: 
-TypeScript               2 hrs 33 mins       █████████████████████░░░░   84.99 % 
-Python                   11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
-Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
-Text                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+TypeScript               2 hrs 56 mins       █████████████████████░░░░   84.84 % 
+Markdown                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+Python                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 
 Editors: 
-Zed                      1 hr 50 mins        ███████████████░░░░░░░░░░   60.92 % 
-Antigravity              1 hr 10 mins        ██████████░░░░░░░░░░░░░░░   39.08 % 
+Zed                      2 hrs 34 mins       ███████████████████░░░░░░   74.36 % 
+Antigravity              53 mins             ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
 
 Projects: 
-duo_mate                 3 hrs               █████████████████████████   100.00 % 
+duo_mate                 3 hrs 27 mins       █████████████████████████   100.00 % 
 
 Operating System: 
-Linux                    3 hrs               █████████████████████████   100.00 % 
+Linux                    3 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 
