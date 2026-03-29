@@ -43,23 +43,23 @@
 
 ```text
 Programming Languages: 
-TypeScript               1 hr 55 mins        ███████████████████████░░   90.35 % 
-Markdown                 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+TypeScript               2 hrs 58 mins       ████████████████████████░   96.61 % 
+Git Config               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 Editors: 
-Antigravity              1 hr 7 mins         █████████████░░░░░░░░░░░░   52.35 % 
-Zed                      1 hr 1 min          ████████████░░░░░░░░░░░░░   47.65 % 
+Antigravity              2 hrs 50 mins       ███████████████████████░░   92.72 % 
+Zed                      13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
 
 Projects: 
-Personal-website         1 hr 4 mins         █████████████░░░░░░░░░░░░   50.23 % 
-duo_mate                 1 hr                ████████████░░░░░░░░░░░░░   46.75 % 
-portfolio_main           3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+portfolio_main           1 hr 53 mins        ███████████████░░░░░░░░░░   61.56 % 
+Personal-website         1 hr 4 mins         █████████░░░░░░░░░░░░░░░░   34.98 % 
+test-project             6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+duo_mate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 Operating System: 
-Linux                    2 hrs 8 mins        █████████████████████████   100.00 % 
+Linux                    3 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 
