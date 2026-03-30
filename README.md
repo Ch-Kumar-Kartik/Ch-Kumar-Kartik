@@ -43,20 +43,19 @@
 
 ```text
 Programming Languages: 
-TypeScript               2 hrs 58 mins       ████████████████████████░   96.61 % 
+TypeScript               2 hrs 57 mins       ████████████████████████░   96.61 % 
 Git Config               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
 CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 Editors: 
-Antigravity              2 hrs 50 mins       ███████████████████████░░   92.72 % 
-Zed                      13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+Antigravity              2 hrs 50 mins       ███████████████████████░░   92.74 % 
+Zed                      13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
 
 Projects: 
-portfolio_main           1 hr 53 mins        ███████████████░░░░░░░░░░   61.56 % 
-Personal-website         1 hr 4 mins         █████████░░░░░░░░░░░░░░░░   34.98 % 
+portfolio_main           1 hr 53 mins        ███████████████░░░░░░░░░░   61.57 % 
+Personal-website         1 hr 4 mins         █████████░░░░░░░░░░░░░░░░   34.99 % 
 test-project             6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
-duo_mate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 Operating System: 
 Linux                    3 hrs 4 mins        █████████████████████████   100.00 % 
