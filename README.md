@@ -43,22 +43,23 @@
 
 ```text
 Programming Languages: 
-TypeScript               5 hrs 9 mins        █████████████████████░░░░   83.82 % 
-MDX                      43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-Bash                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
-Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-TSConfig                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+TypeScript               5 hrs 9 mins        ████████████████████░░░░░   82.00 % 
+MDX                      43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+HTML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+Bash                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 
 Editors: 
-Antigravity              6 hrs 8 mins        █████████████████████████   99.87 % 
+Antigravity              6 hrs 17 mins       █████████████████████████   99.87 % 
 Zed                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 Projects: 
-portfolio_main           6 hrs 1 min         ████████████████████████░   97.86 % 
-portfolio                7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+portfolio_main           6 hrs 1 min         ████████████████████████░   95.73 % 
+web_dev                  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+portfolio                7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 
 Operating System: 
-Linux                    6 hrs 9 mins        █████████████████████████   100.00 % 
+Linux                    6 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 
