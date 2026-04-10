@@ -29,6 +29,40 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-876.89%20thousand%20lines%20of%20code-blue?style=flat)
 
+**I'm a Night Owl** 
+
+```text
+ Morning                 33 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+ Daytime                 50 commits          ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
+ Evening                 83 commits          █████████░░░░░░░░░░░░░░░░   37.22 % 
+ Night                   57 commits          ██████░░░░░░░░░░░░░░░░░░░   25.56 % 
+```
+
+
+**This Week I Spent My Time On** 
+
+```text
+Programming Languages: 
+TypeScript               4 hrs 33 mins       █████████████████░░░░░░░░   68.83 % 
+MDX                      43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+JavaScript               30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+SCSS                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+
+Editors: 
+Antigravity              6 hrs 36 mins       █████████████████████████   99.88 % 
+Zed                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+
+Projects: 
+portfolio_main           5 hrs 25 mins       ████████████████████░░░░░   81.90 % 
+web_dev                  46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+marketIQ                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+portfolio                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+
+Operating System: 
+Linux                    6 hrs 36 mins       █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:waka-->
 
