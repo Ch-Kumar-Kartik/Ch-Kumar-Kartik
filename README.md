@@ -43,19 +43,17 @@
 
 ```text
 Programming Languages: 
-Python                   5 mins              ████████████████████████░   95.89 % 
-TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+TypeScript               0 secs              █████████████████████████   100.00 % 
 
 Editors: 
-Antigravity              5 mins              █████████████████████████   99.16 % 
-Zed                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Antigravity              0 secs              ████████████████████░░░░░   79.61 % 
+Zed                      0 secs              █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
 
 Projects: 
-marketIQ                 5 mins              ████████████████████████░   95.89 % 
-duo_mate                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+duo_mate                 0 secs              █████████████████████████   100.00 % 
 
 Operating System: 
-Linux                    5 mins              █████████████████████████   100.00 % 
+Linux                    0 secs              █████████████████████████   100.00 % 
 ```
 
 
