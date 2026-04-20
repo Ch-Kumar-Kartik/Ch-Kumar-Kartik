@@ -43,17 +43,16 @@
 
 ```text
 Programming Languages: 
-TypeScript               0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 Editors: 
-Antigravity              0 secs              ████████████████████░░░░░   79.61 % 
-Zed                      0 secs              █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
+No Activity Tracked This Week
 
 Projects: 
-duo_mate                 0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 Operating System: 
-Linux                    0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
