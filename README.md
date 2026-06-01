@@ -60,16 +60,16 @@ No Activity Tracked This Week
 
 <table align = "center">
   <tr>
-    <td>
+    <!-- <td>
       <!-- <a href="https://github.com/Ch-Kumar-Kartik/github-readme-stats?tab=readme-ov-file#github-stats-card"> -->
         <!-- <a href="https://github-readme-stats.vercel.app/api?username=Ch-Kumar-Kartik&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false"> -->
-        <img
+        <!-- <img
           height="190"
           alt="GitHub Stats"
           src="https://nirzak-streak-stats.vercel.app/?user=Ch-Kumar-Kartik&theme=gruvbox&hide_border=true"
-        />
-      </a>
-    </td>
+        /> -->
+      <!-- </a>
+    </td> -->
     <td>
       <img
         height="190"
