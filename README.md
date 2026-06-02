@@ -37,16 +37,23 @@
 
 ```text
 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               20 mins             █████████████████░░░░░░░░   67.67 % 
+shell script             4 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
+Python                   3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+jsonc                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
 
 Editors: 
-No Activity Tracked This Week
+Zed                      26 mins             █████████████████████░░░░   85.50 % 
+Unknown Editor           4 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
 
 Projects: 
-No Activity Tracked This Week
+portfolio                25 mins             █████████████████████░░░░   83.92 % 
+waka-readme-stats        4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+Unknown Project          0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
 
 Operating System: 
-No Activity Tracked This Week
+Linux                    30 mins             █████████████████████████   100.00 % 
 ```
 
 
