@@ -37,23 +37,23 @@
 
 ```text
 Programming Languages: 
-TypeScript               20 mins             █████████████████░░░░░░░░   67.67 % 
-shell script             4 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
-Python                   3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
-jsonc                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+TypeScript               24 mins             ██████████████████░░░░░░░   71.19 % 
+shell script             4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+Python                   3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+jsonc                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 
 Editors: 
-Zed                      26 mins             █████████████████████░░░░   85.50 % 
-Unknown Editor           4 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+Zed                      29 mins             ██████████████████████░░░   87.15 % 
+Unknown Editor           4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
 
 Projects: 
-portfolio                25 mins             █████████████████████░░░░   83.92 % 
-waka-readme-stats        4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-Unknown Project          0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+portfolio                29 mins             █████████████████████░░░░   85.74 % 
+waka-readme-stats        4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+Unknown Project          0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 
 Operating System: 
-Linux                    30 mins             █████████████████████████   100.00 % 
+Linux                    34 mins             █████████████████████████   100.00 % 
 ```
 
 
