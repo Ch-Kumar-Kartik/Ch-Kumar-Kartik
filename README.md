@@ -37,23 +37,23 @@
 
 ```text
 Programming Languages: 
-TypeScript               1 hr 22 mins        ██████████████░░░░░░░░░░░   57.93 % 
-Markdown                 20 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-Assembly                 16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-Git Config               9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-CSS                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+Python                   1 hr 28 mins        ██████████░░░░░░░░░░░░░░░   38.13 % 
+TypeScript               1 hr 22 mins        █████████░░░░░░░░░░░░░░░░   35.53 % 
+Markdown                 22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+Assembly                 16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+Git Config               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
 
 Editors: 
-Zed                      2 hrs 9 mins        ███████████████████████░░   91.46 % 
-VS Code                  12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+Zed                      2 hrs 10 mins       ██████████████░░░░░░░░░░░   56.50 % 
+VS Code                  1 hr 40 mins        ███████████░░░░░░░░░░░░░░   43.50 % 
 
 Projects: 
-portfolio                2 hrs 5 mins        ██████████████████████░░░   88.59 % 
-ML_paper_implementations 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-chanhdai.com             4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+portfolio                2 hrs 5 mins        ██████████████░░░░░░░░░░░   54.34 % 
+ML_paper_implementations 1 hr 41 mins        ███████████░░░░░░░░░░░░░░   43.90 % 
+chanhdai.com             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 
 Operating System: 
-Linux                    2 hrs 21 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 
