@@ -37,24 +37,24 @@
 
 ```text
 Programming Languages: 
-Python                   3 hrs 16 mins       ██████████████░░░░░░░░░░░   54.19 % 
-TypeScript               1 hr 44 mins        ███████░░░░░░░░░░░░░░░░░░   28.94 % 
-Markdown                 22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
-Assembly                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
-Git Config               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+Python                   4 hrs 12 mins       ███████████████░░░░░░░░░░   60.33 % 
+TypeScript               1 hr 44 mins        ██████░░░░░░░░░░░░░░░░░░░   25.06 % 
+Markdown                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+Assembly                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+Git Config               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
 
 Editors: 
-VS Code                  3 hrs 6 mins        █████████████░░░░░░░░░░░░   51.36 % 
-Zed                      2 hrs 56 mins       ████████████░░░░░░░░░░░░░   48.64 % 
+VS Code                  4 hrs 2 mins        ██████████████░░░░░░░░░░░   57.88 % 
+Zed                      2 hrs 56 mins       ███████████░░░░░░░░░░░░░░   42.12 % 
 
 Projects: 
-ML_paper_implementations 3 hrs 20 mins       ██████████████░░░░░░░░░░░   55.29 % 
-portfolio                2 hrs 28 mins       ██████████░░░░░░░░░░░░░░░   40.91 % 
-mhc_based_qwen           9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-chanhdai.com             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+ML_paper_implementations 4 hrs 16 mins       ███████████████░░░░░░░░░░   61.28 % 
+portfolio                2 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   35.42 % 
+mhc_based_qwen           9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+chanhdai.com             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 
 Operating System: 
-Linux                    6 hrs 2 mins        █████████████████████████   100.00 % 
+Linux                    6 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 
