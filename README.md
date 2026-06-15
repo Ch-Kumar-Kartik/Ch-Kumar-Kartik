@@ -27,36 +27,6 @@
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-596.57%20thousand%20lines%20of%20code-blue?style=flat)
 
-```text
- Morning                 41 commits          █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
- Daytime                 48 commits          ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
- Evening                 77 commits          ██████████░░░░░░░░░░░░░░░   39.29 % 
- Night                   30 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
-```
-
-
-```text
-Programming Languages: 
-Python                   4 hrs 12 mins       ███████████████░░░░░░░░░░   60.33 % 
-TypeScript               1 hr 44 mins        ██████░░░░░░░░░░░░░░░░░░░   25.06 % 
-Markdown                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
-Assembly                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
-Git Config               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-
-Editors: 
-VS Code                  4 hrs 2 mins        ██████████████░░░░░░░░░░░   57.88 % 
-Zed                      2 hrs 56 mins       ███████████░░░░░░░░░░░░░░   42.12 % 
-
-Projects: 
-ML_paper_implementations 4 hrs 16 mins       ███████████████░░░░░░░░░░   61.28 % 
-portfolio                2 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   35.42 % 
-mhc_based_qwen           9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-chanhdai.com             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
-
-Operating System: 
-Linux                    6 hrs 58 mins       █████████████████████████   100.00 % 
-```
-
 
 <!--END_SECTION:waka-->
 
