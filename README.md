@@ -37,25 +37,26 @@
 
 ```text
 Programming Languages: 
-Python                   5 hrs 39 mins       ██████████████░░░░░░░░░░░   54.22 % 
-TypeScript               3 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   31.54 % 
-Markdown                 49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-Assembly                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-CSS                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+Python                   6 hrs 55 mins       ██████████████░░░░░░░░░░░   55.69 % 
+TypeScript               3 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   24.97 % 
+RPGLE                    1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+Markdown                 1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+Git Config               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 
 Editors: 
-VS Code                  5 hrs 29 mins       █████████████░░░░░░░░░░░░   52.57 % 
-Zed                      4 hrs 57 mins       ████████████░░░░░░░░░░░░░   47.43 % 
+Zed                      5 hrs 52 mins       ████████████░░░░░░░░░░░░░   47.14 % 
+VS Code                  5 hrs 29 mins       ███████████░░░░░░░░░░░░░░   44.12 % 
+Cursor                   1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
 
 Projects: 
-ML_paper_implementations 5 hrs 43 mins       ██████████████░░░░░░░░░░░   54.85 % 
-portfolio                4 hrs 1 min         ██████████░░░░░░░░░░░░░░░   38.56 % 
-Unknown Project          27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
-mhc_based_qwen           9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
-chanhdai.com             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+ML_paper_implementations 6 hrs 43 mins       ██████████████░░░░░░░░░░░   54.06 % 
+portfolio                4 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   34.93 % 
+mhc_based_qwen           38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+Unknown Project          36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+chanhdai.com             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 Operating System: 
-Linux                    10 hrs 26 mins      █████████████████████████   100.00 % 
+Linux                    12 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 
