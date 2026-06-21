@@ -37,26 +37,26 @@
 
 ```text
 Programming Languages: 
-Python                   5 hrs 57 mins       █████████████░░░░░░░░░░░░   50.90 % 
-TypeScript               2 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
-Markdown                 1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-RPGLE                    1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+Python                   6 hrs 17 mins       █████████████░░░░░░░░░░░░   50.77 % 
+TypeScript               2 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
+Markdown                 1 hr 57 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
+RPGLE                    1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
 
 Editors: 
-Cursor                   6 hrs 51 mins       ███████████████░░░░░░░░░░   58.46 % 
-Zed                      4 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   36.36 % 
-Claude Code              36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+Cursor                   7 hrs 34 mins       ███████████████░░░░░░░░░░   61.18 % 
+Zed                      4 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   33.87 % 
+Claude Code              36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
 
 Projects: 
-ML_paper_implementations 5 hrs 59 mins       █████████████░░░░░░░░░░░░   51.09 % 
-portfolio                3 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   31.22 % 
-mhc_based_qwen           1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
-Unknown Project          37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
-terminals                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+ML_paper_implementations 5 hrs 16 mins       ███████████░░░░░░░░░░░░░░   42.61 % 
+portfolio                3 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   29.79 % 
+mhc_based_qwen           1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+paper_implementations    1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+Unknown Project          37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
 
 Operating System: 
-Linux                    11 hrs 43 mins      █████████████████████████   100.00 % 
+Linux                    12 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 
