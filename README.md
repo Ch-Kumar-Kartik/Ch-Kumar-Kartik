@@ -37,27 +37,27 @@
 
 ```text
 Programming Languages: 
-Python                   7 hrs 20 mins       ██████████████████░░░░░░░   72.83 % 
-Markdown                 1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-TypeScript               1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-Mermaid                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Python                   8 hrs 3 mins        ██████████████████████░░░   86.67 % 
+Markdown                 39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+TypeScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Mermaid                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 Editors: 
-Cursor                   8 hrs 59 mins       ██████████████████████░░░   89.31 % 
-Claude Code              36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
-Antigravity Desktop      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-Zed                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+Cursor                   8 hrs 49 mins       ████████████████████████░   94.82 % 
+Antigravity Desktop      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+Zed                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+Claude Code              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 Projects: 
-paper_implementations    5 hrs 7 mins        █████████████░░░░░░░░░░░░   50.78 % 
-ML_paper_implementations 2 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   28.03 % 
-portfolio                1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-mhc_based_qwen           52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-tmp                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+paper_implementations    6 hrs 12 mins       █████████████████░░░░░░░░   66.68 % 
+ML_paper_implementations 2 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   28.45 % 
+portfolio                24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+tmp                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+claude-code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 Operating System: 
-Linux                    10 hrs 4 mins       █████████████████████████   100.00 % 
+Linux                    9 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 
