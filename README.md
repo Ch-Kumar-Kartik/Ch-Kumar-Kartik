@@ -25,13 +25,13 @@
 <p></p>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-602.93%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-571.10%20thousand%20lines%20of%20code-blue?style=flat)
 
 ```text
- Morning                 41 commits          █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
- Daytime                 53 commits          ███████░░░░░░░░░░░░░░░░░░   26.11 % 
- Evening                 78 commits          ██████████░░░░░░░░░░░░░░░   38.42 % 
- Night                   31 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+ Morning                 38 commits          ██████░░░░░░░░░░░░░░░░░░░   22.75 % 
+ Daytime                 43 commits          ██████░░░░░░░░░░░░░░░░░░░   25.75 % 
+ Evening                 66 commits          ██████████░░░░░░░░░░░░░░░   39.52 % 
+ Night                   20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
 ```
 
 
