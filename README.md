@@ -27,39 +27,6 @@
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-617.10%20thousand%20lines%20of%20code-blue?style=flat)
 
-```text
- Morning                 42 commits          █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
- Daytime                 54 commits          ███████░░░░░░░░░░░░░░░░░░   26.21 % 
- Evening                 78 commits          █████████░░░░░░░░░░░░░░░░   37.86 % 
- Night                   32 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-```
-
-
-```text
-Programming Languages: 
-Python                   8 hrs 3 mins        ██████████████████████░░░   86.67 % 
-Markdown                 39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
-TypeScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
-Mermaid                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
-
-Editors: 
-Cursor                   8 hrs 49 mins       ████████████████████████░   94.82 % 
-Antigravity Desktop      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-Zed                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
-Claude Code              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
-
-Projects: 
-paper_implementations    6 hrs 12 mins       █████████████████░░░░░░░░   66.68 % 
-ML_paper_implementations 2 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   28.45 % 
-portfolio                24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-tmp                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
-claude-code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-
-Operating System: 
-Linux                    9 hrs 18 mins       █████████████████████████   100.00 % 
-```
-
 
 <!--END_SECTION:waka-->
 
