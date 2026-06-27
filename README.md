@@ -37,27 +37,27 @@
 
 ```text
 Programming Languages: 
-Python                   8 hrs 29 mins       █████████████████████░░░░   82.29 % 
-Markdown                 1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
-TypeScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
-Other                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Python                   7 hrs 4 mins        ████████████████████░░░░░   81.08 % 
+Markdown                 54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+TypeScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Other                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
 
 Editors: 
-Cursor                   9 hrs 31 mins       ███████████████████████░░   92.24 % 
-Antigravity Desktop      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
-Zed                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Cursor                   7 hrs 44 mins       ██████████████████████░░░   88.73 % 
+Antigravity Desktop      38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+Zed                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 Projects: 
-paper_implementations    7 hrs 14 mins       ██████████████████░░░░░░░   70.19 % 
-ML_paper_implementations 2 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
-portfolio                24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
-Cohort-3 Assignments     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-mhc_based_qwen           10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+paper_implementations    7 hrs 14 mins       █████████████████████░░░░   83.13 % 
+portfolio                24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+ML_paper_implementations 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+Cohort-3 Assignments     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+waka-readme-stats        10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 
 Operating System: 
-Linux                    10 hrs 19 mins      █████████████████████████   100.00 % 
+Linux                    8 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 
