@@ -37,26 +37,26 @@
 
 ```text
 Programming Languages: 
-Python                   5 hrs 43 mins       ███████████████████░░░░░░   76.83 % 
-Markdown                 40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-TypeScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-Git Config               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+Python                   5 hrs 2 mins        ████████████████████░░░░░   78.55 % 
+Markdown                 40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+Git Config               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 
 Editors: 
-Cursor                   6 hrs 31 mins       ██████████████████████░░░   87.63 % 
-Antigravity Desktop      38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-Zed                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+Cursor                   5 hrs 52 mins       ███████████████████████░░   91.59 % 
+Antigravity Desktop      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+Zed                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
 
 Projects: 
-paper_implementations    5 hrs 48 mins       ████████████████████░░░░░   78.03 % 
-mhc_based_qwen           42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-portfolio                22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
-Cohort-3 Assignments     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-waka-readme-stats        10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+paper_implementations    4 hrs 2 mins        ████████████████░░░░░░░░░   63.01 % 
+python_projects          1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
+mhc_based_qwen           42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+Cohort-3 Assignments     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+waka-readme-stats        10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
 
 Operating System: 
-Linux                    7 hrs 26 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 
