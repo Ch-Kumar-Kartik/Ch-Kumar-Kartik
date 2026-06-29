@@ -28,10 +28,10 @@
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-601.07%20thousand%20lines%20of%20code-blue?style=flat)
 
 ```text
- Morning                 38 commits          █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
- Daytime                 49 commits          ██████░░░░░░░░░░░░░░░░░░░   25.65 % 
- Evening                 73 commits          ██████████░░░░░░░░░░░░░░░   38.22 % 
- Night                   31 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+ Morning                 21 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
+ Daytime                 30 commits          ██████░░░░░░░░░░░░░░░░░░░   22.90 % 
+ Evening                 53 commits          ██████████░░░░░░░░░░░░░░░   40.46 % 
+ Night                   27 commits          █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
 ```
 
 
