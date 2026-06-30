@@ -37,26 +37,26 @@
 
 ```text
 Programming Languages: 
-Python                   5 hrs 2 mins        ████████████████████░░░░░   78.55 % 
-Markdown                 40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
-Git Config               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
-JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+Python                   5 hrs 58 mins       ███████████████████░░░░░░   77.82 % 
+Markdown                 47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+Git Config               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
 
 Editors: 
-Cursor                   5 hrs 52 mins       ███████████████████████░░   91.59 % 
-Antigravity Desktop      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-Zed                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+Cursor                   7 hrs 8 mins        ███████████████████████░░   92.98 % 
+Antigravity Desktop      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Zed                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
 
 Projects: 
-paper_implementations    4 hrs 2 mins        ████████████████░░░░░░░░░   63.01 % 
-python_projects          1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
-mhc_based_qwen           42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-Cohort-3 Assignments     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-waka-readme-stats        10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+python_projects          2 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   34.83 % 
+paper_implementations    2 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   26.39 % 
+delta-attention-residuals1 hr 32 mins        █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
+mhc_based_qwen           42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+Cohort-3 Assignments     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
 
 Operating System: 
-Linux                    6 hrs 24 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 
