@@ -9,6 +9,14 @@
 
 <!-- <h5 align="center">sup</h5> -->
 
+<!-- <div align="center">
+  
+  ### `kartik` /kɑːr.tɪk/
+  
+  <sup><i>21M • solving problems, occasionally creating them • wannabe ML Engg</i></sup>
+  
+</div> -->
+
 <h5>Visitor Count :</h5>
 <!-- <div width = "20px">
 <h5> Visitor Count : </h5> 
