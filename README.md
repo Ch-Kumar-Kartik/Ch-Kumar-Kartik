@@ -36,14 +36,6 @@
 
 <!--START_SECTION:waka-->
 ```text
- Morning                 41 commits          █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
- Daytime                 54 commits          ██████░░░░░░░░░░░░░░░░░░░   25.12 % 
- Evening                 80 commits          █████████░░░░░░░░░░░░░░░░   37.21 % 
- Night                   40 commits          █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
-```
-
-
-```text
 Programming Languages: 
 Python                   5 hrs 58 mins       ███████████████████░░░░░░   77.82 % 
 Markdown                 47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
