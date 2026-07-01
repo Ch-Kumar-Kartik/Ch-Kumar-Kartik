@@ -78,6 +78,8 @@ Cohort-3 Assignments             14 mins             █░░░░░░░░
 Operating System: 
 Linux                            7 hrs 40 mins       █████████████████████████   100.00 % 
 ```
+
+
 <!--END_SECTION:waka-->
 
 <table align = "center">
