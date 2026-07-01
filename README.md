@@ -13,24 +13,33 @@
   
   ### kartik 
   
-  <sup><i>21M • working on LLMs • wannabe ML Engg</i></sup>
+  <sup><i>21 y/o • working on LLMs • wannabe ML Engg</i></sup>
   
 </div> 
 
 ##### visitor count :
-<!-- <div width = "20px">
-<h5> Visitor Count : </h5> 
-<img src="https://count.getloli.com/get/@Ch-Kumar-Kartik?theme=booru-lewd" alt="Visitor Count" width="250" height="100" />
-</div><p align="right">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGdhcTdlMnE4OHFkeGN2YTVudmxtOGczbTloZ3J4Yjh0NW5tYTZiYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D9aSh4ymC0l7fCVLtg/giphy.gif" width="100" height="100"/>
-</p> -->
-<p>
-  <img align="left" src="https://count.getloli.com/get/@Ch-Kumar-Kartik?theme=booru-lewd" alt="Visitor Count" width="200" height="100" />
+
+<img
+  align="right"
+  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWwzcHpqa3c5M3o3b3FjMzdkbmd0azkwcGdqNHppY20xb2lrenNuMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1USKMDPjuH4ovL7J5h/giphy.gif"
+  width="150"
+/>
+
+<p align="left">
+  <img
+    src="https://count.getloli.com/get/@Ch-Kumar-Kartik?theme=booru-lewd"
+    alt="Visitor Count"
+    width="200"
+  />
+  <br />
+  <img
+    src="https://wakatime.com/badge/user/582bd39f-1dda-400f-94a9-ba1cf71afb5d.svg"
+    alt="WakaTime"
+    width="200"
+  />
 </p>
-<br clear="both"/>
-<p></p>
-<a href="https://wakatime.com/@582bd39f-1dda-400f-94a9-ba1cf71afb5d"><img src="https://wakatime.com/badge/user/582bd39f-1dda-400f-94a9-ba1cf71afb5d.svg" alt="Total time coded since Jan 27 2026" /></a>
-<p></p>
+
+<!-- <br clear="both" /> -->
 
 ##### about :
 
@@ -46,6 +55,7 @@
 ---
 
 #### some other cool analytics :
+
 <!--START_SECTION:waka-->
 ```text
 Programming Languages: 
@@ -68,8 +78,6 @@ Cohort-3 Assignments             14 mins             █░░░░░░░░
 Operating System: 
 Linux                            7 hrs 40 mins       █████████████████████████   100.00 % 
 ```
-
-
 <!--END_SECTION:waka-->
 
 <table align = "center">
