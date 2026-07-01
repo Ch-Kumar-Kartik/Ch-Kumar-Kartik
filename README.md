@@ -58,24 +58,32 @@
 
 <!--START_SECTION:waka-->
 ```text
-Programming Languages: 
+Programming Languages:
+──────────────────────
+
 Python                           5 hrs 58 mins       ███████████████████░░░░░░   77.82 % 
 Markdown                         47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
 Git Config                       21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
 
-Editors: 
+Editors:
+────────
+
 Cursor                           7 hrs 8 mins        ███████████████████████░░   92.98 % 
 Antigravity Desktop              18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
 Zed                              14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
 
-Projects: 
+Projects:
+─────────
+
 python_projects                  2 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   34.83 % 
 paper_implementations            2 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   26.39 % 
 delta-attention-residuals-idic   1 hr 32 mins        █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
 mhc_based_qwen                   42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
 Cohort-3 Assignments             14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
 
-Operating System: 
+Operating System:
+─────────────────
+
 Linux                            7 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
