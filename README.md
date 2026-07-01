@@ -9,15 +9,15 @@
 
 <!-- <h5 align="center">sup</h5> -->
 
-<!-- <div align="center">
+<div align="center">
   
-  ### `kartik` /kɑːr.tɪk/
+  ### kartik 
   
-  <sup><i>21M • solving problems, occasionally creating them • wannabe ML Engg</i></sup>
+  <sup><i>21M • working on LLMs • wannabe ML Engg</i></sup>
   
-</div> -->
+</div> 
 
-<h5>Visitor Count :</h5>
+##### visitor count :
 <!-- <div width = "20px">
 <h5> Visitor Count : </h5> 
 <img src="https://count.getloli.com/get/@Ch-Kumar-Kartik?theme=booru-lewd" alt="Visitor Count" width="250" height="100" />
@@ -31,6 +31,8 @@
 <p></p>
 <a href="https://wakatime.com/@582bd39f-1dda-400f-94a9-ba1cf71afb5d"><img src="https://wakatime.com/badge/user/582bd39f-1dda-400f-94a9-ba1cf71afb5d.svg" alt="Total time coded since Jan 27 2026" /></a>
 <p></p>
+
+##### about :
 
 <!--START_SECTION:waka-->
 ```text
