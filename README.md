@@ -60,27 +60,26 @@
 ```text
 Programming Languages:
 ──────────────────────
-Python                           6 hrs 6 mins        █████████████████░░░░░░░░   69.25 % 
-TypeScript                       1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-Markdown                         38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+Python                           5 hrs 42 mins       ██████████████████░░░░░░░   70.19 % 
+TypeScript                       1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+Markdown                         23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
 
 Editors:
 ────────
-Cursor                           8 hrs 3 mins        ███████████████████████░░   91.35 % 
-Antigravity Desktop              31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-Zed                              14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+Cursor                           7 hrs 39 mins       ████████████████████████░   94.00 % 
+Antigravity Desktop              29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
 
 Projects:
 ─────────
-python_projects                  4 hrs 41 mins       █████████████░░░░░░░░░░░░   53.09 % 
-delta-attention-residuals-idic   1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
-paper_implementations            56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
-mhc_based_qwen                   42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-waka-readme-stats                24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+python_projects                  4 hrs 41 mins       ██████████████░░░░░░░░░░░   57.56 % 
+delta-attention-residuals-idic   1 hr 32 mins        █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
+mhc_based_qwen                   42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+waka-readme-stats                24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+paper_implementations            17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
 
 Operating System:
 ─────────────────
-Linux                            8 hrs 49 mins       █████████████████████████   100.00 % 
+Linux                            8 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 
