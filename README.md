@@ -57,6 +57,31 @@
 #### some other cool analytics :
 
 <!--START_SECTION:waka-->
+```text
+Programming Languages:
+──────────────────────
+Python                           5 hrs 19 mins       █████████████████░░░░░░░░   69.49 % 
+TypeScript                       1 hr 30 mins        █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
+Git Config                       21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+
+Editors:
+────────
+Cursor                           6 hrs 58 mins       ███████████████████████░░   91.10 % 
+Antigravity Desktop              40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+
+Projects:
+─────────
+python_projects                  4 hrs 42 mins       ███████████████░░░░░░░░░░   61.48 % 
+delta-attention-residuals-idic   1 hr 32 mins        █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
+mhc_based_qwen                   32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+waka-readme-stats                24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+portfolio                        18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+
+Operating System:
+─────────────────
+Linux                            7 hrs 39 mins       █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:waka-->
 
