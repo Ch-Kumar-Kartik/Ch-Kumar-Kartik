@@ -60,26 +60,26 @@
 ```text
 Programming Languages:
 ──────────────────────
-Python                           5 hrs 15 mins       ██████████████████░░░░░░░   70.30 % 
-TypeScript                       1 hr 30 mins        █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
-Git Config                       21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+Python                           5 hrs 5 mins        ███████████████████░░░░░░   76.57 % 
+TypeScript                       1 hr 13 mins        █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
+Git Config                       10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
 
 Editors:
 ────────
-Cursor                           6 hrs 58 mins       ███████████████████████░░   93.31 % 
-Antigravity Desktop              29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
+Cursor                           6 hrs 25 mins       ████████████████████████░   96.63 % 
+Antigravity Desktop              13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
 
 Projects:
 ─────────
-python_projects                  4 hrs 42 mins       ████████████████░░░░░░░░░   62.97 % 
-delta-attention-residuals-idic   1 hr 32 mins        █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
-mhc_based_qwen                   32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
-portfolio                        18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-waka-readme-stats                13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+python_projects                  4 hrs 42 mins       ██████████████████░░░░░░░   70.73 % 
+delta-attention-residuals-idic   1 hr 32 mins        ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
+waka-readme-stats                13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+Cohort_3.0_100xDevs              8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+portfolio                        2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 Operating System:
 ─────────────────
-Linux                            7 hrs 28 mins       █████████████████████████   100.00 % 
+Linux                            6 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 
