@@ -60,26 +60,27 @@
 ```text
 Programming Languages:
 ──────────────────────
-Python                           5 hrs 5 mins        ███████████████████░░░░░░   76.57 % 
-TypeScript                       1 hr 13 mins        █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
-Git Config                       10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+Python                           4 hrs 8 mins        ██████████████████░░░░░░░   73.13 % 
+TypeScript                       1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
+Git Config                       10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
 
 Editors:
 ────────
-Cursor                           6 hrs 25 mins       ████████████████████████░   96.63 % 
-Antigravity Desktop              13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+Cursor                           5 hrs 24 mins       ████████████████████████░   95.76 % 
+Antigravity Desktop              13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+VS Code                          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 Projects:
 ─────────
-python_projects                  4 hrs 42 mins       ██████████████████░░░░░░░   70.73 % 
-delta-attention-residuals-idic   1 hr 32 mins        ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
-waka-readme-stats                13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-Cohort_3.0_100xDevs              8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-portfolio                        2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+python_projects                  3 hrs 37 mins       ████████████████░░░░░░░░░   64.14 % 
+delta-attention-residuals-idic   1 hr 32 mins        ███████░░░░░░░░░░░░░░░░░░   27.17 % 
+waka-readme-stats                13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+Cohort_3.0_100xDevs              8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+paper_implementations            7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
 
 Operating System:
 ─────────────────
-Linux                            6 hrs 39 mins       █████████████████████████   100.00 % 
+Linux                            5 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 
