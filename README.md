@@ -57,32 +57,6 @@
 #### some other cool analytics :
 
 <!--START_SECTION:waka-->
-```text
-Programming Languages:
-──────────────────────
-Python                           1 hr 37 mins        █████████████░░░░░░░░░░░░   52.53 % 
-TypeScript                       1 hr 18 mins        ███████████░░░░░░░░░░░░░░   42.56 % 
-Other                            8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
-
-Editors:
-────────
-Cursor                           2 hrs 6 mins        █████████████████░░░░░░░░   68.45 % 
-Neovim                           40 mins             ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
-Antigravity Desktop              13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
-
-Projects:
-─────────
-python_projects                  2 hrs 3 mins        █████████████████░░░░░░░░   66.86 % 
-Unknown Project                  35 mins             █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
-waka-readme-stats                13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
-paper_implementations            10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-duo_mate                         2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
-
-Operating System:
-─────────────────
-Linux                            3 hrs 5 mins        █████████████████████████   100.00 % 
-```
-
 
 <!--END_SECTION:waka-->
 
