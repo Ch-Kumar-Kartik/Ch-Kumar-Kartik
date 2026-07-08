@@ -57,6 +57,31 @@
 #### some other cool analytics :
 
 <!--START_SECTION:waka-->
+```text
+Programming Languages:
+──────────────────────
+Python                           4 hrs 43 mins       ██████████████████████░░░   89.65 % 
+Other                            25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+TypeScript                       7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+
+Editors:
+────────
+Neovim                           4 hrs 41 mins       ██████████████████████░░░   89.09 % 
+Opencode Cli                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+Cursor                           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+
+Projects:
+─────────
+Unknown Project                  4 hrs 24 mins       █████████████████████░░░░   83.54 % 
+python_projects                  39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
+paper_implementations            10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+duo_mate                         2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+
+Operating System:
+─────────────────
+Linux                            5 hrs 16 mins       █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:waka-->
 
