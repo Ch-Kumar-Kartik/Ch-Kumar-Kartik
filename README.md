@@ -60,26 +60,27 @@
 ```text
 Programming Languages:
 ──────────────────────
-Python                           4 hrs 43 mins       ██████████████████████░░░   89.65 % 
-Other                            25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
-TypeScript                       7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+Python                           5 hrs 15 mins       █████████████████████░░░░   82.89 % 
+Other                            53 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+TypeScript                       7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
 
 Editors:
 ────────
-Neovim                           4 hrs 41 mins       ██████████████████████░░░   89.09 % 
-Opencode Cli                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
-Cursor                           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+Neovim                           5 hrs 17 mins       █████████████████████░░░░   83.55 % 
+Opencode Cli                     49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+Cursor                           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 
 Projects:
 ─────────
-Unknown Project                  4 hrs 24 mins       █████████████████████░░░░   83.54 % 
-python_projects                  39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
-paper_implementations            10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
-duo_mate                         2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Unknown Project                  4 hrs 55 mins       ███████████████████░░░░░░   77.81 % 
+python_projects                  59 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
+aur-malware-check                12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+paper_implementations            10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+duo_mate                         2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 
 Operating System:
 ─────────────────
-Linux                            5 hrs 16 mins       █████████████████████████   100.00 % 
+Linux                            6 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 
