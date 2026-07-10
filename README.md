@@ -70,14 +70,6 @@ Neovim                           5 hrs 17 mins       █████████
 Opencode Cli                     49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
 Cursor                           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 
-Projects:
-─────────
-Unknown Project                  4 hrs 55 mins       ███████████████████░░░░░░   77.81 % 
-python_projects                  59 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
-aur-malware-check                12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-paper_implementations            10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-duo_mate                         2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-
 Operating System:
 ─────────────────
 Linux                            6 hrs 20 mins       █████████████████████████   100.00 % 
