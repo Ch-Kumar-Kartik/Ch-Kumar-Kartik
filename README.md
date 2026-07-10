@@ -54,7 +54,7 @@
 
 ---
 
-#### some other cool analytics :
+#### some other cool analytics for this week :
 
 <!--START_SECTION:waka-->
 ```text
@@ -92,12 +92,12 @@ Linux                            6 hrs 20 mins       █████████
     </td> -->
     <td>
       <img
-        height="190"
+        height="220"
         alt="Activity Graph"
         src="https://github-readme-activity-graph.vercel.app/graph?username=Ch-Kumar-Kartik&radius=16&theme=react&area=true&order=5"
       />
     </td>
-    <td><img height="190" src = "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ch-Kumar-Kartik&theme=nord_dark"></td>
+    <td><img height="220" src = "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ch-Kumar-Kartik&theme=nord_dark"></td>
   </tr>
 </table>
 
