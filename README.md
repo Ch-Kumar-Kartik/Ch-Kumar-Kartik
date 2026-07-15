@@ -57,6 +57,24 @@
 #### some other cool analytics for this week :
 
 <!--START_SECTION:waka-->
+```text
+Programming Languages:
+──────────────────────
+Python                           9 hrs 12 mins       ███████████████████████░░   90.19 % 
+Other                            38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+Lua                              15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+
+Editors:
+────────
+Neovim                           3 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   32.49 % 
+Cursor                           3 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   31.14 % 
+Opencode Cli                     1 hr 56 mins        █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
+
+Operating System:
+─────────────────
+Linux                            10 hrs 12 mins      █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:waka-->
 
