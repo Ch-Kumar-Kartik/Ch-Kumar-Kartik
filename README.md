@@ -57,23 +57,6 @@
 #### some other cool analytics for this week :
 
 <!--START_SECTION:waka-->
-```text
-Programming Languages:
-──────────────────────
-Python                           55 mins             ██████████████████░░░░░░░   73.76 % 
-CSV                              14 mins             █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
-KDL                              4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
-
-Editors:
-────────
-Cursor                           1 hr 10 mins        ███████████████████████░░   93.51 % 
-Neovim                           4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
-
-Operating System:
-─────────────────
-Linux                            1 hr 15 mins        █████████████████████████   100.00 % 
-```
-
 
 <!--END_SECTION:waka-->
 
