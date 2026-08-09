@@ -43,7 +43,7 @@
 
 ##### about :
 
-- working at [motherson group](https://www.mothersontechnology.com/), building agents and cv pipelines
+- working at [motherson group](https://www.mothersontechnology.com/), working on applied ai
 - was part of capstone project at deloitte usi, building a knowledge error database
 - was a part of amazon ml summer school'25
 - worked a doceree as backend engg, building an sso service
