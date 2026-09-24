@@ -90,13 +90,13 @@ Linux                            3 hrs 35 mins       █████████
         /> -->
       <!-- </a>
     </td> -->
-    <td>
+    <!-- <td>
       <img
         height="220"
         alt="Activity Graph"
         src="https://github-readme-activity-graph.vercel.app/graph?username=Ch-Kumar-Kartik&radius=16&theme=react&area=true&order=5"
       />
-    </td>
+    </td> -->
     <td><img height="220" src = "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ch-Kumar-Kartik&theme=nord_dark"></td>
   </tr>
 </table>
