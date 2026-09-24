@@ -78,28 +78,9 @@ Linux                            3 hrs 35 mins       █████████
 
 <!--END_SECTION:waka-->
 
-<table align = "center">
-  <tr>
-    <!-- <td>
-      <!-- <a href="https://github.com/Ch-Kumar-Kartik/github-readme-stats?tab=readme-ov-file#github-stats-card"> -->
-        <!-- <a href="https://github-readme-stats.vercel.app/api?username=Ch-Kumar-Kartik&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false"> -->
-        <!-- <img
-          height="190"
-          alt="GitHub Stats"
-          src="https://nirzak-streak-stats.vercel.app/?user=Ch-Kumar-Kartik&theme=gruvbox&hide_border=true"
-        /> -->
-      <!-- </a>
-    </td> -->
-    <!-- <td>
-      <img
-        height="220"
-        alt="Activity Graph"
-        src="https://github-readme-activity-graph.vercel.app/graph?username=Ch-Kumar-Kartik&radius=16&theme=react&area=true&order=5"
-      />
-    </td> -->
-    <td><img height="220" src = "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ch-Kumar-Kartik&theme=nord_dark"></td>
-  </tr>
-</table>
+<div align = "center">
+<img align = "center" height="220" src = "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ch-Kumar-Kartik&theme=nord_dark">
+</div>
 
 <!--
 ### Languages and Tools:
