@@ -48,6 +48,34 @@
 - was a part of amazon ml summer school'25
 - worked a doceree as backend engg, building an sso service
 
+##### research :
+
+- [Delta Attention Residuals for Cross-Layer Information Flow in Indic Models]() 
+<img
+  align="right"
+  src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=Ch-Kumar-Kartik&year=2026&theme=sunset&width=1000&height=600&stats=true"
+  width="500"
+/>
+
+  _this work replace cumulative hidden states with per-sublayer deltas as routing sources for cross-layer connectivity. the key insight: routing over what changed rather than what accumulated yields 3x   sharper routing and consistently better perplexity across different tested scales on a nvidia dgx spark._
+
+##### projects :
+
+- [Cattle-Lens](https://github.com/Ch-Kumar-Kartik/cattle-lens) :
+
+  _CattleLens AI is a full-stack cattle breed recognition and record-keeping application. The FastAPI backend serves a trained ResNet-18 classifier and a JWT-protected API for prediction history, cattle profiles, diet plans, and vaccination records. Built for Gov. of India (Ministry of Agriculture) in a Hackathon_
+
+- [mHc based qwen](https://github.com/Ch-Kumar-Kartik/mhc_based_qwen) :
+
+  _it implements Manifold-Constrained Hyper-Connections (mHC) to expand the Qwen3-0.6B model architecture._
+
+##### blogs :
+
+- [attention-101](https://www.kartik-tsuki.me/notes/attention-101) : deep dive into single and multi head attention
+- [intution behind cross and masked attention](https://www.kartik-tsuki.me/notes/intution-behind-masked-and-cross-attention) : how cross and masked attention work
+- [positional encoding 101](https://www.kartik-tsuki.me/notes/positional-encoding-101) : why we need positional encoding and how it works
+- [transformers 101](https://www.kartik-tsuki.me/notes/transformers-aiayn) : internals of transformers 
+
 (u can know more about me at : [here](https://www.kartik-tsuki.me/))
 
 **Connect with me** : [x](https://x.com/C_Kumar_Kartik) . [github](https://github.com/Ch-Kumar-Kartik) . [website](https://www.kartik-tsuki.me/)
@@ -78,9 +106,31 @@ Linux                            11 hrs 15 mins      █████████
 
 <!--END_SECTION:waka-->
 
-<div align = "center">
-<img align = "center" height="220" src = "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ch-Kumar-Kartik&theme=nord_dark">
-</div>
+<!-- <table align="center">
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ch-Kumar-Kartik&theme=midnight_purple&animation=load&name=kartik">
+    </td>
+    <td>
+      <img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=Ch-Kumar-Kartik&year=2026&theme=sunset&width=1000&height=600">
+    </td>
+  </tr>
+</table> -->
+
+<!-- <img
+  align="right"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ch-Kumar-Kartik&theme=midnight_purple&animation=load&name=kartik"
+  width="500"
+/>
+
+<p align="left">
+  <img
+    src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=Ch-Kumar-Kartik&year=2026&theme=sunset&width=1000&height=600"
+    alt="Visitor Count"
+    width="500"
+  />
+  <br />
+</p> -->
 
 <!--
 ### Languages and Tools:
