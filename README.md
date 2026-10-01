@@ -22,20 +22,20 @@
 <img
   align="right"
   src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWwzcHpqa3c5M3o3b3FjMzdkbmd0azkwcGdqNHppY20xb2lrenNuMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1USKMDPjuH4ovL7J5h/giphy.gif"
-  width="150"
+  width="130"
 />
 
 <p align="left">
   <img
     src="https://count.getloli.com/get/@Ch-Kumar-Kartik?theme=booru-lewd"
     alt="Visitor Count"
-    width="200"
+    width="180"
   />
   <br />
   <img
     src="https://wakatime.com/badge/user/582bd39f-1dda-400f-94a9-ba1cf71afb5d.svg"
     alt="WakaTime"
-    width="200"
+    width="180"
   />
 </p>
 
