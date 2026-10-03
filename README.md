@@ -54,11 +54,11 @@
 
   _this work replace cumulative hidden states with per-sublayer deltas as routing sources for cross-layer connectivity. the key insight: routing over what changed rather than what accumulated yields 3x   sharper routing and consistently better perplexity across different tested scales on a nvidia dgx spark._
 
-<span><img
+<div><img
   align="right"
   src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=Ch-Kumar-Kartik&year=2026&theme=sunset&width=1000&height=600&stats=true"
   width="500"
-/></span>
+/></div>
 <br>
 
 ##### projects :
