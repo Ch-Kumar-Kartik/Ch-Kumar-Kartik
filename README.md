@@ -59,6 +59,7 @@
   src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=Ch-Kumar-Kartik&year=2026&theme=sunset&width=1000&height=600&stats=true"
   width="500"
 /></span>
+<br>
 
 ##### projects :
 
