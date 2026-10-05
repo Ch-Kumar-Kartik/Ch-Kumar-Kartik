@@ -87,6 +87,24 @@
 #### some other cool analytics for this week :
 
 <!--START_SECTION:waka-->
+```text
+Programming Languages:
+──────────────────────
+Python                           2 hrs 4 mins        █████████████░░░░░░░░░░░░   52.01 % 
+TypeScript                       53 mins             ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
+Markdown                         28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+
+Editors:
+────────
+Cursor                           1 hr 32 mins        ██████████░░░░░░░░░░░░░░░   38.57 % 
+Codex Vscode                     1 hr 16 mins        ████████░░░░░░░░░░░░░░░░░   32.06 % 
+Zed                              1 hr 10 mins        ███████░░░░░░░░░░░░░░░░░░   29.36 % 
+
+Operating System:
+─────────────────
+Linux                            3 hrs 59 mins       █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:waka-->
 
