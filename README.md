@@ -90,19 +90,19 @@
 ```text
 Programming Languages:
 ──────────────────────
-Python                           3 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   24.33 % 
-TypeScript                       3 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   24.31 % 
-JavaScript                       3 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
+Python                           3 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   30.13 % 
+JavaScript                       3 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   29.92 % 
+Markdown                         1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
 
 Editors:
 ────────
-Cursor                           6 hrs 1 min         ██████████░░░░░░░░░░░░░░░   39.43 % 
-Codex Vscode                     4 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   32.05 % 
-Claude Code                      4 hrs               ███████░░░░░░░░░░░░░░░░░░   26.24 % 
+Cursor                           4 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   33.26 % 
+Claude Code                      4 hrs               ████████░░░░░░░░░░░░░░░░░   32.50 % 
+Codex Vscode                     3 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   31.42 % 
 
 Operating System:
 ─────────────────
-Linux                            15 hrs 17 mins      █████████████████████████   100.00 % 
+Linux                            12 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 
